@@ -1,5 +1,5 @@
 require './thinkable'
-
+require './animal'
 
 class Human < Animal
     attr_accessor :hobby
